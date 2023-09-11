@@ -5,14 +5,13 @@
 
 # Setting up a scientific coding environment | Configurando un entorno de programación científica
 
-In this lesson, we'll set up an environment for scientific coding that you can
-use in CoCo and beyond.
+In this lesson, we'll set up an environment for scientific coding that you can use for CoCo and beyond.
 We'll also learn about Project Jupyter and the tools it provides for scientific coding.
 
 ---
 
-En esta lección configuraremos un entorno para realizar programación científica
-que puedes usar en CoCo y para otras cosas también.
+En esta lección configuraremos un entorno para la programación científica que puedes usar para CoCo y otras cosas. 
+También aprenderemos sobre Project Jupyter y otras herramientas que ofrece para la programación científica. 
 
 ## Topics | Temas
 
@@ -63,8 +62,8 @@ programación científica básica.
 ## Python distribution | Distribución de Python
 
 The first application we need for our scientific coding environment is a
-_Python distribution_, the set of tools and libraries for developing code in
-Python.
+_Python distribution_, which is basically a set of tools and libraries for developing 
+code in Python.
 
 Most computers already have a Python distribution installed with the operating
 system (OS). However, it's best not to work with this distribution because
@@ -97,15 +96,15 @@ librerías para desarrollar código en Python.
 La mayoría de las computadoras ya tienen instalada una distribución de Python
 con el sistema operativo (SO).
 Sin embargo, es mejor no trabajar con esta distribución porque los cambios en
-ella pueden dañar las cosas en su computadora.
+ella pueden dañar cosas en su computadora.
 
 En su lugar, recomendamos instalar una distribución científica de Python.
-Un ejemplo popular es la Distribución Anaconda.
+Un ejemplo popular es la [Distribución Anaconda][anaconda-distribution].
 Incluye una distribución estándar de Python, varias librerías científicas
 importantes y un administrador de paquetes, conda.
 
 La distribución de Anaconda está disponible para Linux, macOS y Windows.
-Haga clic en el logotipo de Anaconda a la derecha (o use el enlace de arriba)
+Haz clic en el logotipo de Anaconda a la derecha (o use el enlace de arriba)
 para descargar e instalar Anaconda Distribution en su computadora.
 
 La distribución Anaconda viene con muchas herramientas para trabajar con Python.
@@ -161,21 +160,21 @@ Once installed, you can run the program Git Bash from the Start menu.
 
 ---
 
-Si su computadora ejecuta Windows, deberá instalar una aplicación de terminal.
+Si tu computadora ejecuta Windows, deberás instalar una aplicación de terminal.
 Hay algunas opciones para hacerlo; actualmente recomendamos
 [Git para Windows][git-for-windows].
 No solo emula una terminal en Windows, sino que también incluye el software
 Git, que aprenderemos y usaremos más adelante.
 
-Haga clic en el logotipo a la derecha (o use el enlace de arriba) para
-descargar Git para Windows en su computadora.
+Haz clic en el logotipo a la derecha (o use el enlace de arriba) para
+descargar Git para Windows en tu computadora.
 
-Al instalar Git para Windows, siga cuidadosamente las
+Al instalar Git para Windows, sigue cuidadosamente las
 [instrucciones][git-install-instructions] proporcionadas por Software
 Carpentry.
 Esto asegurará que Git y Anaconda funcionen juntos correctamente.
 
-Una vez instalado, puede ejecutar el programa Git Bash desde el menú Inicio.
+Una vez instalado, podrás ejecutar el programa Git Bash desde el menú Inicio.
 
 ### Linux and macOS
 
@@ -248,10 +247,10 @@ disponibles para descargar.
 Recomendamos [Visual Studio Code][vs-code] (VS Code) de Microsoft.
 
 VS Code está disponible para Linux, macOS y Windows.
-Haga clic en la imagen del logotipo a la derecha (o use el enlace de arriba)
-para descargar e instalar VS Code en su computadora.
+Haz clic en la imagen del logotipo a la derecha (o en el enlace de arriba)
+para descargar e instalar VS Code en tu computadora.
 
-Una vez instalado, puede ejecutar VS Code desde el menú Inicio en Windows,
+Una vez instalado, podrás ejecutar VS Code desde el menú Inicio en Windows,
 desde el directorio de aplicaciones en macOS y desde el menú de aplicaciones en
 una distribución de Linux.
 
@@ -305,7 +304,7 @@ Un JupyterHub se puede instalar en la nube o localmente.
 A través del proyecto [OpenEarthscape][oes] financiado por la NSF,
 el [Community Surface Dynamics Modeling System][csdms] (CSDMS) proporciona un
 [JupyterHub][csdms-jhub] donde se pueden ejecutar los Notebooks de CoCo.
-Haga clic en este botón [![Ejecutar en CSDMS JupyterHub][badge]][csdms-jhub-link]
+Haz clic en este botón [![Ejecutar en CSDMS JupyterHub][badge]][csdms-jhub-link]
 para abrir las lecciones de CoCo directamente en CSDMS JupyterHub.
 
 ## JupyterLab
