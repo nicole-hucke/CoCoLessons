@@ -1,0 +1,58 @@
+Coaches Orientación 
+
+Misión: 
+
+El objetivo de CoCo Comunidad es ofrecer un espacio
+virtual donde miembros latinos e hispanos en Ciencias de 
+la Tierra (pueden ser becarios de CoCo, integrantes de 
+GeoLatinas, y otra gente interesada) puedan reunirse para 
+compartir recursos y estrategias de Python y comunicación 
+científica discutidos en CoCo. 
+
+A través de esto, la idea es poder incrementar la accesibilidad 
+de los recursos educativos a estudiantes en undergrad
+y ya graduados en Geociencias y al menos durante el resto de este 
+año, queremos que las coaches estén disponibles para responder 
+preguntas e inquietudes, con el objetivo de cultivar un sentido de 
+comunidad y un espacio seguro.
+
+Cómo funciona la CoCo Comunidad: 
+
+Primero tenemos las horas de oficina, las cuales consisten en 
+juntarse 1 a 1 con miembros de la comunidad y ofrecer ayuda 
+personalizada sobre algún problema que tengan (ya sea de programación
+o de scicomm). Vamos a tener una plataforma de reserva para las horas,
+por lo que puede que no tengan que hacerlo todas las semanas, pero
+deben dejar al menos una hora disponible a la semana para destinar 
+a esto. El formulario tiene una sección donde se describe brevemente 
+la razón por la que los miembros de la comunidad están agendado la
+hora, por lo que ustedes van a tener al menos dos días para 
+prepararse de antemano (el booking tiene el setting de no poder 
+agendar una hora con menos dos días de antelación). 
+
+En adición a las horas de oficina, existirá un espacio virtual de
+slack, en donde también se podrán hacer preguntas (cada canal con
+sus respectivos tópicos en específico) y ustedes como coaches estarán
+disponibles para contestar dentro del slack y participar de la 
+comunidad lo más posible. 
+
+Y la segunda parte de esto es el curso en línea que tendremos 
+disponible en nuestra página web y se distribuirá a través de
+google classroom. El curso se dividirá en dos componentes, uno 
+de programación y otro de comunicación científica, cada componente 
+con cuatro lecciones cada uno. Ustedes como coaches van a desarrollar 
+el contenido de estas lecciones, pero todo en base al contenido 
+previo del curso original de CoCo. La idea es que una vez que 
+las lecciones estén abiertas al público, miembros puedan hacer 
+preguntas sobre el contenido del curso :)
+
+Manual de Ética Laboral 2024:
+
+Si van a estos enlaces, se van a encontrar con el work ethic handbook
+(manual de ética laboral). Ahí encontrarán toda la información sobre
+las expectativas y responsabilidades que tienen como miembros del 
+equipo de CoCo. También está toda la info sobre el entorno de trabajo
+que queremos lograr en el programa, como poder crear un ambiente 
+positivo y productivo entre todas. Échenle un vistazo cuando tengan
+un tiempo, y cualquier duda nos hacen saber también.
+
